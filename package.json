@@ -1,0 +1,12 @@
+{
+    "name": "proxy",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "node ./main.mjs"
+    },
+    "dependencies": {
+        "node-fetch": "^3.3.2"
+    }
+}
